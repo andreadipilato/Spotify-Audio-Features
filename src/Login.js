@@ -5,12 +5,8 @@ import { loginUrl } from "./spotify";
 function Login() {
     return (
     
-    <div className="login">
-    
-    <form action={loginUrl}>
-        <button className="linkstyle">Login</button>
-    </form>
-
+    <div className="login"> 
+        <a className="linkstyle" href={loginUrl}>Login</a>
     </div>
     
     
