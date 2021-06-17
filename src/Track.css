@@ -1,0 +1,31 @@
+.infostyle {
+    color: #FFFFFF;
+    /*display: inline-block;*/
+    margin: 5px;
+}
+
+.titlestyle {
+    font-weight: bold;
+    margin:5px;
+}
+
+.artiststyle {
+    margin:5px;
+}
+
+.coverstyle {
+    width: 64px;
+    height: 64px;
+}
+
+li {
+    margin: 10px;
+    background-color: #212121;  /*  #535353  #212121  */
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;   
+}
+li:hover {
+    opacity: 80%;
+}

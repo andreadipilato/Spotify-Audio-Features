@@ -1,0 +1,25 @@
+.features_style {
+    
+}
+
+table {
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    color: #191414;
+    border-radius: 5px;
+    
+}
+
+
+
+tr {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+td {
+ 
+}
