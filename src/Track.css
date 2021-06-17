@@ -27,5 +27,5 @@ li {
     cursor: pointer;   
 }
 li:hover {
-    opacity: 80%;
+    opacity: 50%;
 }
