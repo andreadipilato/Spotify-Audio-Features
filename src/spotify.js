@@ -1,5 +1,5 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://spotifyaudiofeatures.netlify.app/";
 const clientId = "c6fd4598ef3a41b9a5bc245dd19ea10a"; //client ID fornito da spotify che identifica univocamente la mia app
 
 
