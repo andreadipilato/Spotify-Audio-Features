@@ -1,7 +1,21 @@
-.linkstyle {
-    color: #1DB954;
-}
-
 .login {
     text-align: center;
+    
 }
+
+
+.linkstyle {
+    border-radius: 500px;
+    padding: 8px 34px;
+    background-color: #1DB954;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 18px;
+    border: transparent;
+    text-transform: uppercase;
+    letter-spacing: 1.76px;
+    font-weight: 700;
+    
+}
+
